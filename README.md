@@ -4,7 +4,7 @@
 # south
 Patched fork of South, a Django application to provide schema and data migrations for Prowl. Written by Montana Mendy.
 
-Make sure you have pip install then run 
+Make sure you have pip installed then actually install south via  
 <pre>pip install South</pre>
 
 If you got south from GitHub or a third party source, you can install via 
